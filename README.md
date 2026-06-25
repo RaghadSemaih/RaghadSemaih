@@ -70,6 +70,5 @@ Conducted requirements analysis and designed UML models as part of a software en
 ## Contact
 
 LinkedIn: [www.linkedin.com/in/raghad-alsemaih-489b4436b](http://www.linkedin.com/in/raghad-alsemaih-489b4436b)
-
 GitHub: github.com/RaghadSemaih
 
