@@ -1,4 +1,4 @@
-# Raghad Alsamaih
+# Raghad Alsemaih
 
 Software Engineering student at Princess Nourah Bint Abdulrahman University with an interest in software development, artificial intelligence, and cloud computing. Passionate about building practical solutions, applying software engineering principles, and continuously expanding technical knowledge through projects, research, and hands-on learning experiences.
 
