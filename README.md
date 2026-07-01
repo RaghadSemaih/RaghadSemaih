@@ -7,7 +7,9 @@ Software Engineering student at Princess Nourah Bint Abdulrahman University with
 ## Education
 
 **Princess Nourah Bint Abdulrahman University**
+
 **Bachelor of Software Engineering**
+
 Expected Graduation: **June 2027**
 
 ---
@@ -70,8 +72,6 @@ Contributed to the development of a web-based pet adoption platform using HTML, 
 ### Wild Dash Game
 
 Conducted requirements analysis and designed UML models as part of a software engineering project.
-
-**Technologies:** UML, Requirements Analysis
 
 ---
 
