@@ -7,7 +7,9 @@ Software Engineering student at Princess Nourah Bint Abdulrahman University with
 ## Education
 
 **Princess Nourah Bint Abdulrahman University**
+
 **Bachelor of Software Engineering**
+
 Expected Graduation: **June 2027**
 
 ---
