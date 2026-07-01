@@ -47,10 +47,9 @@ Expected Graduation: **June 2027**
 
 ### Rasd – Platform Dependency Analysis
 
-Developed a Flask-based web application that analyzes restaurant datasets to estimate dependency on food delivery platforms. The system processes CSV and JSON datasets, analyzes customer reviews using Python and restaurant images using the Google Gemini Vision API, then generates business indicators and presents the results through an interactive dashboard.
+Developed a Flask-based web application that analyzes restaurant datasets to estimate dependency on food delivery platforms. The system combines text analysis using Python with image analysis using the Google Gemini Vision API to generate business indicators and present insights through an interactive dashboard with interactive charts.
 
-**Technologies:** Python, Flask, HTML, CSS, JavaScript, Chart.js, Google Gemini API
-
+**Technologies:** Python, Flask, HTML, CSS, JavaScript, Chart.js, Google Gemini Vision API
 ---
 
 ### Car Image Classification Model
@@ -94,6 +93,6 @@ Conducted requirements analysis and designed UML models as part of a software en
 
 ## Contact
 
-**LinkedIn:** [www.linkedin.com/in/raghad-alsemaih-489b4436b](http://www.linkedin.com/in/raghad-alsemaih-489b4436b)
+**LinkedIn:** <https://www.linkedin.com/in/raghad-alsemaih-489b4436b>
 
-**GitHub:** github.com/RaghadSemaih
+**GitHub:** <https://github.com/RaghadSemaih>
