@@ -49,7 +49,7 @@ Expected Graduation: **June 2027**
 
 Developed a Flask-based web application that analyzes restaurant datasets to estimate dependency on food delivery platforms. The system combines text analysis using Python with image analysis using the Google Gemini Vision API to generate business indicators and present insights through an interactive dashboard with interactive charts.
 
-**Technologies:** Python, Flask, HTML, CSS, JavaScript, Chart.js, Google Gemini API
+**Technologies:** Python, Flask, HTML, CSS, JavaScript, Chart.js, Google Gemini API, Apify, SerpApi
 
 ---
 
