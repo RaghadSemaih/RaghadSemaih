@@ -45,11 +45,26 @@ Expected Graduation: **June 2027**
 
 ## Projects
 
+### Bannan – Assistive Health iPad Application
+Developed an iPad application empowering elderly individuals with Essential Tremor to assess hand stability and complete personalized motor exercises. 
+*(Note: This repository is maintained privately to protect intellectual property rights).*
+
+**Technologies & Tools:** Swift, SwiftUI, SwiftData, CoreMotion, HealthKit, Accelerate Framework, Supabase
+
+---
+
 ### Rasd – Platform Dependency Analysis
 
 Developed a Flask-based web application that analyzes restaurant datasets to estimate dependency on food delivery platforms. The system combines text analysis using Python with image analysis using the Google Gemini Vision API to generate business indicators and present insights through an interactive dashboard with interactive charts.
 
 **Technologies:** Python, Flask, HTML, CSS, JavaScript, Chart.js, Google Gemini API, Apify, SerpApi
+
+---
+
+### EventHub – Event Booking & Management Platform
+Designed and developed a comprehensive event booking and management platform featuring responsive role-based dashboards (Admin, Organizer, Support) with a user-friendly UI, utilizing Scrum methodologies.
+
+**Technologies & Tools:** HTML, CSS, JavaScript, PHP, MySQL, Scrum
 
 ---
 
@@ -72,21 +87,6 @@ Contributed to the development of a web-based pet adoption platform using HTML, 
 ### Wild Dash Game
 
 Conducted requirements analysis and designed UML models as part of a software engineering project.
-
----
-
-### Bannan – Assistive Health iPad Application
-Developed an iPad application empowering elderly individuals with Essential Tremor to assess hand stability and complete personalized motor exercises. 
-*(Note: This repository is maintained privately to protect intellectual property rights).*
-
-**Technologies & Tools:** Swift, SwiftUI, SwiftData, CoreMotion, HealthKit, Accelerate Framework, Supabase
-
----
-
-### EventHub – Event Booking & Management Platform
-Designed and developed a comprehensive event booking and management platform featuring responsive role-based dashboards (Admin, Organizer, Support) with a user-friendly UI, utilizing Scrum methodologies.
-
-**Technologies & Tools:** HTML, CSS, JavaScript, PHP, MySQL, Scrum
 
 ---
 
