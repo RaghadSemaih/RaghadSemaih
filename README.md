@@ -75,6 +75,21 @@ Conducted requirements analysis and designed UML models as part of a software en
 
 ---
 
+### Bannan – Assistive Health iPad Application
+Developed an iPad application empowering elderly individuals with Essential Tremor to assess hand stability and complete personalized motor exercises. 
+*(Note: This repository is maintained privately to protect intellectual property rights).*
+
+**Technologies & Tools:** Swift, SwiftUI, SwiftData, CoreMotion, HealthKit, Accelerate Framework, Supabase
+
+---
+
+### EventHub – Event Booking & Management Platform
+Designed and developed a comprehensive event booking and management platform featuring responsive role-based dashboards (Admin, Organizer, Support) with a user-friendly UI, utilizing Scrum methodologies.
+
+**Technologies & Tools:** HTML, CSS, JavaScript, PHP, MySQL, Scrum
+
+---
+
 ## Volunteering
 
 * Core Committee Member – Google Developer Group on Campus at PNU
