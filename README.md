@@ -47,6 +47,7 @@ Expected Graduation: **June 2027**
 
 ### Bannan – Assistive Health iPad Application
 Developed an iPad application empowering elderly individuals with Essential Tremor to assess hand stability and complete personalized motor exercises. 
+
 *(Note: This repository is maintained privately to protect intellectual property rights).*
 
 **Technologies & Tools:** Swift, SwiftUI, SwiftData, CoreMotion, HealthKit, Accelerate Framework, Supabase
