@@ -67,7 +67,7 @@ Developing a dual-interface platform consisting of an elderly-focused mobile app
 
 *(Note: The repository is not currently included as the project is actively in progress/under development)*.
 
-**Technologies & Tools:** Swift, SwiftUI, Python, Arabic NLP, Computer Vision, OCR, Web Technologies
+**Technologies & Tools:** Python, Arabic NLP, Computer Vision, OCR, HTML, CSS, JavaScript, PHP
 
 ---
 
