@@ -63,7 +63,7 @@ Developed a Flask-based web application that analyzes restaurant datasets to est
 ---
 
 ### Awn – AI-Powered Elderly Support Platform
-Developing a dual-interface platform consisting of an elderly-focused mobile application and a family web dashboard[cite: 2]. The system applies Arabic NLP for fraud message detection and Computer Vision/OCR for medication label recognition, alongside features like GPS tracking, geofencing, SOS alerts, and medication reminders[cite: 2].
+Developing a dual-interface platform consisting of an elderly-focused mobile application and a family web dashboard. The system applies Arabic NLP for fraud message detection and Computer Vision/OCR for medication label recognition, alongside features like GPS tracking, geofencing, SOS alerts, and medication reminders.
 
 *(Note: The repository is not currently included as the project is actively in progress/under development)*.
 
